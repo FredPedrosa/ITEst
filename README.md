@@ -134,7 +134,10 @@ The main panel displays results in tabs:
 ## Author
 
 *   **Prof. Dr. Frederico G. Pedrosa**
+*   fredericopedrosa@ufmg.br
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under a modified version of the GNU General Public License v3.0.  
+Commercial use is not permitted without explicit written permission from the author.
+
